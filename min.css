@@ -1,0 +1,31 @@
+.home-image img {   
+    width: 400px;  
+    height: auto;  
+    margin-right: 20px; 
+    border-radius: 50%;
+}
+.social-links a {
+    font-size: 24px; 
+    padding: 4px; 
+    margin-right: 4px;
+    color: black 
+  }
+  .icon{
+    font-size: 50px; 
+    color: #FF0000;
+  }
+  .text-muted {
+    color: #6c757d; 
+}
+.hobbies img{
+    width: 350px;  
+    height: 200px;  
+    border: 1px solid #513535; /* Add a border for visual separation */
+    border-radius: 5%;
+}
+.family img{
+    width: 350px;  
+    height: 400px;  
+    border: 1px solid #513535; /* Add a border for visual separation */
+    border-radius: 5%;
+}
